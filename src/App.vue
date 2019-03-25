@@ -4,7 +4,6 @@
     </Panel>
     <main>
       <LoginForm></LoginForm>
-
     </main>
   </div>
 </template>

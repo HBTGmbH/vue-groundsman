@@ -18,10 +18,9 @@
 </template>
 
 <script>
-  import Validator from 'vee-validate'
+  import { Validator } from 'vee-validate'
 
   const validator = new Validator()
-
   export default {
     name: 'Input',
     props: {
